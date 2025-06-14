@@ -1,0 +1,47 @@
+
+{
+  "name": "craft-world-auto-bot",
+  "version": "1.0.0",
+  "description": "An automated bot for Craft World game that handles mining, factory operations, and area claiming with multi-account support (updated auto login use pk)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCxVBS/Craft-World-Auto-Bot.git"
+  },
+  "keywords": [
+    "craft-world",
+    "bot",
+    "automation",
+    "gaming",
+    "mining",
+    "factory",
+    "airdrop",
+    "cryptocurrency",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "SCxVBS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SCxVBS/Craft-World-Auto-Bot/issues"
+  },
+  "homepage": "https://github.com/SCxVBS/Craft-World-Auto-Bot#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "ethers": "^6.14.4",
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
