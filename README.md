@@ -99,15 +99,15 @@ Make sure you have [Node.js](https://nodejs.org/) (version 16 or higher is recom
 
     **A. Finding `mineId`**
     Perform an action related to a mine (start/claim) to find the `mineId`.
-    ![Image for finding Mine ID](1.jpg)
+    ![Image for finding Mine ID](1.PNG)
 
     **B. Finding `factoryId`**
     Perform an action related to a factory (start) to find the `factoryId`.
-    ![Image for finding Factory ID](2.jpg)
+    ![Image for finding Factory ID](2.PNG)
 
     **C. Finding `areaId`**
     Perform an action related to an area (claim) to find the `areaId`.
-    ![Image for finding Area ID](3.jpg)
+    ![Image for finding Area ID](3.PNG)
 
 7.  **Run the Bot**
     After all configurations are complete, run the bot with the command:
