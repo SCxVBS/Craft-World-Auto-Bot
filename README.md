@@ -49,13 +49,12 @@ Make sure you have [Node.js](https://nodejs.org/) (version 16 or higher is recom
 1.  **Clone This Repository**
     Open your terminal or command prompt and run the following command:
     ```bash
-    git clone [https://github.com/scxvbs/YOUR-REPOSITORY-NAME.git](https://github.com/scxvbs/YOUR-REPOSITORY-NAME.git)
+    git clone https://github.com/SCxVBS/Craft-World-Auto-Bot.git
     ```
-    *(Replace `YOUR-REPOSITORY-NAME` with your repository name)*
 
 2.  **Navigate to the Project Directory**
     ```bash
-    cd YOUR-REPOSITORY-NAME
+    cd Craft-World-Auto-Bot
     ```
 
 3.  **Install Dependencies**
@@ -120,13 +119,15 @@ Make sure you have [Node.js](https://nodejs.org/) (version 16 or higher is recom
 ## 📂 File Structure
 
 
-Craft-World-Bot/
+Craft-World-Auto-Bot/
+├── 1.jpg               # Guide image for Mine ID
+├── 2.jpg               # Guide image for Factory ID
+├── 3.jpg               # Guide image for Area ID
 ├── node_modules/       # Dependency folder (auto-generated)
 ├── auth.js             # Module for authentication (web3 login)
 ├── config.json         # Main configuration file for all your IDs
 ├── index.js            # Main script to run the bot
 ├── package.json        # Project information and dependency list
-├── package-lock.json   # Locked dependency versions
 ├── pk.txt              # File to store your private key (Must be created manually)
 └── README.md           # The file you are currently reading
 
