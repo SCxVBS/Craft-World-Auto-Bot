@@ -1,15 +1,18 @@
 {
   "name": "Akun Utama Saya",
-  "mineIds": [
-    "0684c...........",
-    "isi_mineId_kedua_disini"
-  ],
-  "factoryIds": [
-    "0684............",
-    "isi_factoryId_kedua_disini"
-  ],
-  "areaIds": [
-    "0684...........",
-    "isi_areaId_kedua_disini"
+  "assets": [
+    { "type": "mine", "id": "isi_mineId_pertama_disini" },
+    { "type": "mine", "id": "isi_mineId_kedua_disini" },
+    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
+    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
+    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
+    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
+    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
+    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
+    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
+    { "type": "area", "id": "isi_areaId_pertama_disini" },
+    { "type": "area", "id": "isi_areaId_pertama_disini" },
+    { "type": "area", "id": "isi_areaId_pertama_disini" },
+    { "type": "area", "id": "isi_areaId_pertama_disini" }
   ]
 }

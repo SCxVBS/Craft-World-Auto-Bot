@@ -49,13 +49,13 @@ Make sure you have [Node.js](https://nodejs.org/) (version 16 or higher is recom
 1.  **Clone This Repository**
     Open your terminal or command prompt and run the following command:
     ```bash
-    git clone [https://github.com/scxvbs/YOUR-REPOSITORY-NAME.git](https://github.com/scxvbs/YOUR-REPOSITORY-NAME.git)
+    git clone https://github.com/SCxVBS/Craft-World-Auto-Bot.git
     ```
-    *(Replace `YOUR-REPOSITORY-NAME` with your repository name)*
+    
 
 2.  **Navigate to the Project Directory**
     ```bash
-    cd YOUR-REPOSITORY-NAME
+    cd Craft-World-Auto-Bot
     ```
 
 3.  **Install Dependencies**
@@ -100,15 +100,15 @@ Make sure you have [Node.js](https://nodejs.org/) (version 16 or higher is recom
 
     **A. Finding `mineId`**
     Perform an action related to a mine (start/claim) to find the `mineId`.
-    ![Image for finding Mine ID](1.jpg)
+    ![Image for finding Mine ID](1.PNG)
 
     **B. Finding `factoryId`**
     Perform an action related to a factory (start) to find the `factoryId`.
-    ![Image for finding Factory ID](2.jpg)
+    ![Image for finding Factory ID](2.PNG)
 
     **C. Finding `areaId`**
     Perform an action related to an area (claim) to find the `areaId`.
-    ![Image for finding Area ID](3.jpg)
+    ![Image for finding Area ID](3.PNG)
 
 7.  **Run the Bot**
     After all configurations are complete, run the bot with the command:
