@@ -1,18 +1,36 @@
 {
-  "name": "Akun Utama Saya",
-  "assets": [
-    { "type": "mine", "id": "isi_mineId_pertama_disini" },
-    { "type": "mine", "id": "isi_mineId_kedua_disini" },
-    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
-    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
-    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
-    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
-    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
-    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
-    { "type": "factory", "id": "isi_factoryId_pertama_disini" },
-    { "type": "area", "id": "isi_areaId_pertama_disini" },
-    { "type": "area", "id": "isi_areaId_pertama_disini" },
-    { "type": "area", "id": "isi_areaId_pertama_disini" },
-    { "type": "area", "id": "isi_areaId_pertama_disini" }
+  "accounts": [
+    {
+      "name": "Akun 1",
+      "assets": [
+        { "type": "mine", "id": "mineId1_akun1" },
+        { "type": "mine", "id": "mineId2_akun1" },
+        { "type": "factory", "id": "factoryId1_akun1" },
+        { "type": "factory", "id": "factoryId2_akun1" },
+        { "type": "area", "id": "areaId1_akun1" },
+        { "type": "area", "id": "areaId2_akun1" }
+      ]
+    },
+    {
+      "name": "Akun 2",
+      "assets": [
+        { "type": "mine", "id": "mineId1_akun2" },
+        { "type": "mine", "id": "mineId2_akun2" },
+        { "type": "factory", "id": "factoryId1_akun2" },
+        { "type": "factory", "id": "factoryId2_akun2" },
+        { "type": "factory", "id": "factoryId3_akun2" },
+        { "type": "area", "id": "areaId1_akun2" }
+      ]
+    },
+    {
+      "name": "Akun 3",
+      "assets": [
+        { "type": "mine", "id": "mineId1_akun3" },
+        { "type": "factory", "id": "factoryId1_akun3" },
+        { "type": "area", "id": "areaId1_akun3" },
+        { "type": "area", "id": "areaId2_akun3" },
+        { "type": "area", "id": "areaId3_akun3" }
+      ]
+    }
   ]
 }
